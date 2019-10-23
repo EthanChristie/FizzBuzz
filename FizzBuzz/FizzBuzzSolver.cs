@@ -15,7 +15,7 @@ namespace FizzBuzz
         public static List<string> Solve(int solveFor)
         {
             if (solveFor < 1)
-                throw new ArgumentOutOfRangeException(nameof(solveFor), solveFor,"Must supply integer above 0");
+                throw new ArgumentOutOfRangeException(nameof(solveFor), solveFor, "Must supply integer above 0");
 
             var answer = new List<string>();
 
