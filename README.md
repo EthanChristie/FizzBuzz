@@ -1,7 +1,7 @@
 # FizzBuzz
 You know the drill!  
   
-But incase you don't:  
+But in case you don't:  
 Outputs numbers starting from 1 and incrementing, but:  
 If the number is divisible by 3, prints `Fizz` instead.  
 If the number is divisible by 5, prints `Buzz` instead.  
