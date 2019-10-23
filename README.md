@@ -8,7 +8,7 @@ If the number is divisible by 5, prints `Buzz` instead.
 If the number is divisible by both 3 *and* 5, prints `FizzBuzz` instead.  
 
 ## Prerequisites
-None
+.NET Core 3.0 runtime
 
 ## Usage
 ```
